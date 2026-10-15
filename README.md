@@ -1,6 +1,6 @@
 # Ze Music — Mathematical Music Composition and Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23404810.svg)](https://doi.org/10.5281/zenodo.23404810)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23405620.svg)](https://doi.org/10.5281/zenodo.23405620)
 
 A formal framework for composing and analyzing music through information theory, group theory, and dynamical systems. Built on the Ze Vectors Theory (Tqemaladze, 2026).
 
