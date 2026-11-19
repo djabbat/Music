@@ -59,3 +59,13 @@ Music/                              # Проект: Ze Music — супер-по
 ├── ~/Desktop/LC/Ze/Ze_Music/       # Исходный концепт + базовая версия ze_music.py
 └── ~/Desktop/Marketing/            # Родительский проект
 ```
+
+## Автоструктура (deep-audit 2026-11-19)
+
+```
+Music/
+├── .git/
+├── Samnu_Azuzi/
+├── Threshold_Stand/
+├── data/
+```
